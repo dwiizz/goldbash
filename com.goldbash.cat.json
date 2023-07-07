@@ -1,0 +1,575 @@
+{
+  "Ads": [
+   {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-M",
+       "main_ads_banner": "0c5c909bff244ca2",
+      "main_ads_intertitial":"c10644528bef7955",
+      "main_ads_natives":"2d520de26907a332",
+      "main_ads_rewards":"0edcf77701ce3c76",
+      "backup_ads_natives":"2d520de26907a332",
+      "backup_ads_banner":"0c5c909bff244ca2",
+      "backup_ads_intertitial":"c10644528bef7955",
+      "backup_ads_rewards":"0edcf77701ce3c76",
+      "open_ads_admob":"ca-app-pub-4854064161928888/1937352255",
+      "open_ads_alien":"560f9789eb62abe8",
+      "open_ads_max":"560f9789eb62abe8",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 6,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"J-lVpXbHyumUWsu1bwEwtGn2hHmLx6C2bqOJf981D837_yX93nmJClSRkUOCB875OFCUFQbqimV8KhnTquqV56",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+     {
+   "id": 4,
+   "title": "Toca Boca Outfit Ideas",
+   "image": "https://play-lh.googleusercontent.com/jfieKnJ6L-7oYYM_6TWH4SZ81xkIXNdezV2JOnOPI7vs9ZBEz_kJfua5YV444p1SyMg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_outfit"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams Fake VCall",
+   "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/QaIkWPuN9qfDjL8coR5yAHEV0pg0w9LKYz4PvTCCR4aRGTxj8jbRqarFbjzMtE-NWYE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.wednesday_addams"
+ },
+     {
+   "id": 13,
+   "title": "Jenna Ortega in Scream 6",
+   "image": "https://play-lh.googleusercontent.com/34xmdFOHcagfo2TdjDs6_1i2WiwEa-sqbp2ISPidWeok7wBrIYduw2_l4YdtHqou5_I=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.scream6"
+ },
+     {
+   "id": 1,
+   "title": "Toca Boca Wednesday",
+   "image": "https://play-lh.googleusercontent.com/k95VZlu_7cYSxneTk2WI-nhnzbielE7CYyjQjFQDVgab1Fbod8Y6NzvmDfumAvV1YOYM=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.tocaboca_wednesday"
+ },
+    {
+   "id": 1,
+   "title": "Gacha 2 HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/GXceIh263PKyU5CIoUdhx0shN68qf3GnD1ofwvxmh-qQN-uCuy03MrXa-yA7Md0PKQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha"
+ },
+     {
+   "id": 1,
+   "title": "Broken Screen 4K",
+   "image": "https://play-lh.googleusercontent.com/sgktEtXjuVE8KNb6BwtN1Gt0U-1tB2YetPyu6fEfvghHy65obe39vCTaYYJkAmOXPAIy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.broken_screen"
+ },
+     {
+   "id": 1,
+   "title": "DragonBall",
+   "image": "https://play-lh.googleusercontent.com/JIZAJER9vCxmtiNBHBS47ef5KTLccGx60ccg4sksdYQFSEz8IxJnZoTnOVV_56KnpDs=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.dragon_ultra"
+ },
+   
+    
+{
+   "id": 1,
+   "title": "Creed 3 HD",
+   "image": "https://play-lh.googleusercontent.com/WkjfxzGDZbX4JT-5F6gKDUGHewWpLSPxSPI7cHVuC44uY-JjfE71U6CY2xZaDWYbu20=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.creed3"
+ },
+
+ {
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+ {
+   "id": 5,
+   "title": "Preppy Wallpapers Pink",
+   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
+ }
+  ],
+
+  "Categories": [
+   {
+   "id": 1,
+   "name_category": "Cat 1",
+   "image": "http://archive.org/download/66_20221031/cat/3.jpg"
+ },
+     {
+   "id": 2,
+   "name_category": "Cat 2",
+   "image": "http://archive.org/download/66_20221031/cat/34.jpg"
+ },
+     {
+   "id": 3,
+   "name_category": "Cat 3",
+   "image": "http://archive.org/download/66_20221031/cat/57.jpg"
+ }
+  ],
+
+  "Data":
+  [
+ {
+   "id": 35,
+   "name_category": "Cat 2",
+   "title": "Cat35",
+   "image": "http://archive.org/download/66_20221031/cat/40.jpg"
+ },
+ {
+   "id": 58,
+   "name_category": "Cat 3",
+   "title": "Cat58",
+   "image": "http://archive.org/download/66_20221031/cat/61.jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Cat",
+   "title": "Cat18",
+   "image": "http://archive.org/download/66_20221031/cat/25.jpg"
+ },
+ {
+   "id": 57,
+   "name_category": "Cat 3",
+   "title": "Cat57",
+   "image": "http://archive.org/download/66_20221031/cat/60.jpg"
+ },
+ {
+   "id": 37,
+   "name_category": "Cat 2",
+   "title": "Cat37",
+   "image": "http://archive.org/download/66_20221031/cat/42.jpg"
+ },
+ {
+   "id": 64,
+   "name_category": "Cat 3",
+   "title": "Cat64",
+   "image": "http://archive.org/download/66_20221031/cat/67.jpg"
+ },
+ {
+   "id": 50,
+   "name_category": "Cat 3",
+   "title": "Cat50",
+   "image": "http://archive.org/download/66_20221031/cat/54.jpg"
+ },
+ {
+   "id": 34,
+   "name_category": "Cat 2",
+   "title": "Cat34",
+   "image": "http://archive.org/download/66_20221031/cat/4.jpg"
+ },
+ {
+   "id": 74,
+   "name_category": "Cat 3",
+   "title": "Cat74",
+   "image": "http://archive.org/download/66_20221031/cat/8.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Cat",
+   "title": "Cat13",
+   "image": "http://archive.org/download/66_20221031/cat/20.jpg"
+ },
+ {
+   "id": 38,
+   "name_category": "Cat 2",
+   "title": "Cat38",
+   "image": "http://archive.org/download/66_20221031/cat/43.jpg"
+ },
+ {
+   "id": 45,
+   "name_category": "Cat 3",
+   "title": "Cat45",
+   "image": "http://archive.org/download/66_20221031/cat/5.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Cat",
+   "title": "Cat15",
+   "image": "http://archive.org/download/66_20221031/cat/22.jpg"
+ },
+ {
+   "id": 60,
+   "name_category": "Cat 3",
+   "title": "Cat60",
+   "image": "http://archive.org/download/66_20221031/cat/63.jpg"
+ },
+ {
+   "id": 72,
+   "name_category": "Cat 3",
+   "title": "Cat72",
+   "image": "http://archive.org/download/66_20221031/cat/74.jpg"
+ },
+ {
+   "id": 47,
+   "name_category": "Cat 3",
+   "title": "Cat47",
+   "image": "http://archive.org/download/66_20221031/cat/51.jpg"
+ },
+ {
+   "id": 65,
+   "name_category": "Cat 3",
+   "title": "Cat65",
+   "image": "http://archive.org/download/66_20221031/cat/68.jpg"
+ },
+ {
+   "id": 25,
+   "name_category": "Cat",
+   "title": "Cat25",
+   "image": "http://archive.org/download/66_20221031/cat/31.jpg"
+ },
+ {
+   "id": 24,
+   "name_category": "Cat",
+   "title": "Cat24",
+   "image": "http://archive.org/download/66_20221031/cat/30.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Cat",
+   "title": "Cat16",
+   "image": "http://archive.org/download/66_20221031/cat/23.jpg"
+ },
+ {
+   "id": 40,
+   "name_category": "Cat 2",
+   "title": "Cat40",
+   "image": "http://archive.org/download/66_20221031/cat/45.jpg"
+ },
+ {
+   "id": 21,
+   "name_category": "Cat",
+   "title": "Cat21",
+   "image": "http://archive.org/download/66_20221031/cat/28.jpg"
+ },
+ {
+   "id": 67,
+   "name_category": "Cat 3",
+   "title": "Cat67",
+   "image": "http://archive.org/download/66_20221031/cat/7.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Cat",
+   "title": "Cat9",
+   "image": "http://archive.org/download/66_20221031/cat/17.jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Cat",
+   "title": "Cat17",
+   "image": "http://archive.org/download/66_20221031/cat/24.jpg"
+ },
+ {
+   "id": 27,
+   "name_category": "Cat 2",
+   "title": "Cat27",
+   "image": "http://archive.org/download/66_20221031/cat/33.jpg"
+ },
+ {
+   "id": 55,
+   "name_category": "Cat 3",
+   "title": "Cat55",
+   "image": "http://archive.org/download/66_20221031/cat/59.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Cat",
+   "title": "Cat5",
+   "image": "http://archive.org/download/66_20221031/cat/13.jpg"
+ },
+ {
+   "id": 70,
+   "name_category": "Cat 3",
+   "title": "Cat70",
+   "image": "http://archive.org/download/66_20221031/cat/72.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Cat",
+   "title": "Cat4",
+   "image": "http://archive.org/download/66_20221031/cat/12.jpg"
+ },
+ {
+   "id": 54,
+   "name_category": "Cat 3",
+   "title": "Cat54",
+   "image": "http://archive.org/download/66_20221031/cat/58.jpg"
+ },
+ {
+   "id": 56,
+   "name_category": "Cat 3",
+   "title": "Cat56",
+   "image": "http://archive.org/download/66_20221031/cat/6.jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Cat",
+   "title": "Cat8",
+   "image": "http://archive.org/download/66_20221031/cat/16.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Cat",
+   "title": "Cat12",
+   "image": "http://archive.org/download/66_20221031/cat/2.jpg"
+ },
+ {
+   "id": 42,
+   "name_category": "Cat 2",
+   "title": "Cat42",
+   "image": "http://archive.org/download/66_20221031/cat/47.jpg"
+ },
+ {
+   "id": 59,
+   "name_category": "Cat 3",
+   "title": "Cat59",
+   "image": "http://archive.org/download/66_20221031/cat/62.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Cat",
+   "title": "Cat6",
+   "image": "http://archive.org/download/66_20221031/cat/14.jpg"
+ },
+ {
+   "id": 1,
+   "name_category": "Cat",
+   "title": "Cat1",
+   "image": "http://archive.org/download/66_20221031/cat/1.jpg"
+ },
+ {
+   "id": 62,
+   "name_category": "Cat 3",
+   "title": "Cat62",
+   "image": "http://archive.org/download/66_20221031/cat/65.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Cat",
+   "title": "Cat3",
+   "image": "http://archive.org/download/66_20221031/cat/11.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Cat",
+   "title": "Cat7",
+   "image": "http://archive.org/download/66_20221031/cat/15.jpg"
+ },
+ {
+   "id": 26,
+   "name_category": "Cat",
+   "title": "Cat26",
+   "image": "http://archive.org/download/66_20221031/cat/32.jpg"
+ },
+ {
+   "id": 30,
+   "name_category": "Cat 2",
+   "title": "Cat30",
+   "image": "http://archive.org/download/66_20221031/cat/36.jpg"
+ },
+ {
+   "id": 69,
+   "name_category": "Cat 3",
+   "title": "Cat69",
+   "image": "http://archive.org/download/66_20221031/cat/71.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Cat",
+   "title": "Cat2",
+   "image": "http://archive.org/download/66_20221031/cat/10.jpg"
+ },
+ {
+   "id": 49,
+   "name_category": "Cat 3",
+   "title": "Cat49",
+   "image": "http://archive.org/download/66_20221031/cat/53.jpg"
+ },
+ {
+   "id": 46,
+   "name_category": "Cat 3",
+   "title": "Cat46",
+   "image": "http://archive.org/download/66_20221031/cat/50.jpg"
+ },
+ {
+   "id": 68,
+   "name_category": "Cat 3",
+   "title": "Cat68",
+   "image": "http://archive.org/download/66_20221031/cat/70.jpg"
+ },
+ {
+   "id": 48,
+   "name_category": "Cat 3",
+   "title": "Cat48",
+   "image": "http://archive.org/download/66_20221031/cat/52.jpg"
+ },
+ {
+   "id": 63,
+   "name_category": "Cat 3",
+   "title": "Cat63",
+   "image": "http://archive.org/download/66_20221031/cat/66.jpg"
+ },
+ {
+   "id": 61,
+   "name_category": "Cat 3",
+   "title": "Cat61",
+   "image": "http://archive.org/download/66_20221031/cat/64.jpg"
+ },
+ {
+   "id": 41,
+   "name_category": "Cat 2",
+   "title": "Cat41",
+   "image": "http://archive.org/download/66_20221031/cat/46.jpg"
+ },
+ {
+   "id": 29,
+   "name_category": "Cat 2",
+   "title": "Cat29",
+   "image": "http://archive.org/download/66_20221031/cat/35.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Cat",
+   "title": "Cat10",
+   "image": "http://archive.org/download/66_20221031/cat/18.jpg"
+ },
+ {
+   "id": 52,
+   "name_category": "Cat 3",
+   "title": "Cat52",
+   "image": "http://archive.org/download/66_20221031/cat/56.jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Cat",
+   "title": "Cat19",
+   "image": "http://archive.org/download/66_20221031/cat/26.jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Cat",
+   "title": "Cat20",
+   "image": "http://archive.org/download/66_20221031/cat/27.jpg"
+ },
+ {
+   "id": 33,
+   "name_category": "Cat 2",
+   "title": "Cat33",
+   "image": "http://archive.org/download/66_20221031/cat/39.jpg"
+ },
+ {
+   "id": 31,
+   "name_category": "Cat 2",
+   "title": "Cat31",
+   "image": "http://archive.org/download/66_20221031/cat/37.jpg"
+ },
+ {
+   "id": 28,
+   "name_category": "Cat 2",
+   "title": "Cat28",
+   "image": "http://archive.org/download/66_20221031/cat/34.jpg"
+ },
+ {
+   "id": 23,
+   "name_category": "Cat",
+   "title": "Cat23",
+   "image": "http://archive.org/download/66_20221031/cat/3.jpg"
+ },
+ {
+   "id": 39,
+   "name_category": "Cat 2",
+   "title": "Cat39",
+   "image": "http://archive.org/download/66_20221031/cat/44.jpg"
+ },
+ {
+   "id": 53,
+   "name_category": "Cat 3",
+   "title": "Cat53",
+   "image": "http://archive.org/download/66_20221031/cat/57.jpg"
+ },
+ {
+   "id": 36,
+   "name_category": "Cat 2",
+   "title": "Cat36",
+   "image": "http://archive.org/download/66_20221031/cat/41.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Cat",
+   "title": "Cat14",
+   "image": "http://archive.org/download/66_20221031/cat/21.jpg"
+ },
+ {
+   "id": 43,
+   "name_category": "Cat 2",
+   "title": "Cat43",
+   "image": "http://archive.org/download/66_20221031/cat/48.jpg"
+ },
+ {
+   "id": 71,
+   "name_category": "Cat 3",
+   "title": "Cat71",
+   "image": "http://archive.org/download/66_20221031/cat/73.jpg"
+ },
+ {
+   "id": 44,
+   "name_category": "Cat 2",
+   "title": "Cat44",
+   "image": "http://archive.org/download/66_20221031/cat/49.jpg"
+ },
+ {
+   "id": 22,
+   "name_category": "Cat",
+   "title": "Cat22",
+   "image": "http://archive.org/download/66_20221031/cat/29.jpg"
+ },
+ {
+   "id": 75,
+   "name_category": "Cat 3",
+   "title": "Cat75",
+   "image": "http://archive.org/download/66_20221031/cat/9.jpg"
+ },
+ {
+   "id": 51,
+   "name_category": "Cat 3",
+   "title": "Cat51",
+   "image": "http://archive.org/download/66_20221031/cat/55.jpg"
+ },
+ {
+   "id": 32,
+   "name_category": "Cat 2",
+   "title": "Cat32",
+   "image": "http://archive.org/download/66_20221031/cat/38.jpg"
+ },
+ {
+   "id": 73,
+   "name_category": "Cat 3",
+   "title": "Cat73",
+   "image": "http://archive.org/download/66_20221031/cat/75.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Cat",
+   "title": "Cat11",
+   "image": "http://archive.org/download/66_20221031/cat/19.jpg"
+ },
+ {
+   "id": 66,
+   "name_category": "Cat 3",
+   "title": "Cat66",
+   "image": "http://archive.org/download/66_20221031/cat/69.jpg"
+ }
+]
+  )
