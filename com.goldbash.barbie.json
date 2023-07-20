@@ -104,39 +104,15 @@
   "Categories": [
    {
    "id": 1,
-   "name_category": "AesThetic 1",
-   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/18.webp"
+   "name_category": "Barbie Movie",
+   "image": "https://i.pinimg.com/564x/0a/c2/da/0ac2da94e1695e91fdcf6fc5a694cfd8.jpg"
  },
      {
    "id": 2,
-   "name_category": "AesThetic 2",
-   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/30.webp"
- },
-     {
-   "id": 3,
-   "name_category": "AesThetic 3",
-   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/58.webp"
- },
-     {
-   "id": 4,
-   "name_category": "AesThetic 4",
-   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/94.webp"
- },
-     {
-   "id": 1,
-   "name_category": "AesThetic 5",
-   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/116.webp"
- },
-     {
-   "id": 2,
-   "name_category": "AesThetic 6",
-   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/139.webp"
- },
-     {
-   "id": 3,
-   "name_category": "AesThetic 7",
-   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/198.webp"
+   "name_category": "Margot Robbie",
+   "image": "https://i.pinimg.com/564x/ab/51/de/ab51deb9d028584fbc18878ea41e6c7a.jpg"
  }
+   
   ],
 
   "Data":
