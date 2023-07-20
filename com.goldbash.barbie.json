@@ -1,0 +1,439 @@
+{
+  "Ads": [
+   {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-M",
+       "main_ads_banner": "0c5c909bff244ca2",
+      "main_ads_intertitial":"c10644528bef7955",
+      "main_ads_natives":"2d520de26907a332",
+      "main_ads_rewards":"0edcf77701ce3c76",
+      "backup_ads_natives":"2d520de26907a332",
+      "backup_ads_banner":"0c5c909bff244ca2",
+      "backup_ads_intertitial":"c10644528bef7955",
+      "backup_ads_rewards":"0edcf77701ce3c76",
+      "open_ads_admob":"ca-app-pub-4854064161928888/1937352255",
+      "open_ads_alien":"560f9789eb62abe8",
+      "open_ads_max":"560f9789eb62abe8",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 6,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"J-lVpXbHyumUWsu1bwEwtGn2hHmLx6C2bqOJf981D837_yX93nmJClSRkUOCB875OFCUFQbqimV8KhnTquqV56",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+     {
+   "id": 4,
+   "title": "Toca Boca Outfit Ideas",
+   "image": "https://play-lh.googleusercontent.com/jfieKnJ6L-7oYYM_6TWH4SZ81xkIXNdezV2JOnOPI7vs9ZBEz_kJfua5YV444p1SyMg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_outfit"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams Fake VCall",
+   "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/QaIkWPuN9qfDjL8coR5yAHEV0pg0w9LKYz4PvTCCR4aRGTxj8jbRqarFbjzMtE-NWYE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.wednesday_addams"
+ },
+     {
+   "id": 13,
+   "title": "Jenna Ortega in Scream 6",
+   "image": "https://play-lh.googleusercontent.com/34xmdFOHcagfo2TdjDs6_1i2WiwEa-sqbp2ISPidWeok7wBrIYduw2_l4YdtHqou5_I=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.scream6"
+ },
+     {
+   "id": 1,
+   "title": "Toca Boca Wednesday",
+   "image": "https://play-lh.googleusercontent.com/k95VZlu_7cYSxneTk2WI-nhnzbielE7CYyjQjFQDVgab1Fbod8Y6NzvmDfumAvV1YOYM=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.tocaboca_wednesday"
+ },
+    {
+   "id": 1,
+   "title": "Gacha 2 HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/GXceIh263PKyU5CIoUdhx0shN68qf3GnD1ofwvxmh-qQN-uCuy03MrXa-yA7Md0PKQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha"
+ },
+     {
+   "id": 1,
+   "title": "Broken Screen 4K",
+   "image": "https://play-lh.googleusercontent.com/sgktEtXjuVE8KNb6BwtN1Gt0U-1tB2YetPyu6fEfvghHy65obe39vCTaYYJkAmOXPAIy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.broken_screen"
+ },
+     {
+   "id": 1,
+   "title": "DragonBall",
+   "image": "https://play-lh.googleusercontent.com/JIZAJER9vCxmtiNBHBS47ef5KTLccGx60ccg4sksdYQFSEz8IxJnZoTnOVV_56KnpDs=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.dragon_ultra"
+ },
+   
+    
+{
+   "id": 1,
+   "title": "Creed 3 HD",
+   "image": "https://play-lh.googleusercontent.com/WkjfxzGDZbX4JT-5F6gKDUGHewWpLSPxSPI7cHVuC44uY-JjfE71U6CY2xZaDWYbu20=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.creed3"
+ },
+
+ {
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+ {
+   "id": 5,
+   "title": "Preppy Wallpapers Pink",
+   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
+ }
+  ],
+
+  "Categories": [
+   {
+   "id": 1,
+   "name_category": "AesThetic 1",
+   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/18.webp"
+ },
+     {
+   "id": 2,
+   "name_category": "AesThetic 2",
+   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/30.webp"
+ },
+     {
+   "id": 3,
+   "name_category": "AesThetic 3",
+   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/58.webp"
+ },
+     {
+   "id": 4,
+   "name_category": "AesThetic 4",
+   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/94.webp"
+ },
+     {
+   "id": 1,
+   "name_category": "AesThetic 5",
+   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/116.webp"
+ },
+     {
+   "id": 2,
+   "name_category": "AesThetic 6",
+   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/139.webp"
+ },
+     {
+   "id": 3,
+   "name_category": "AesThetic 7",
+   "image": "https://cdn.statically.io/gh/dewol0/aestheticwallpaper/main/198.webp"
+ }
+  ],
+
+  "Data":
+  [
+ {
+   "id": 1,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie1",
+   "image": "https://i.pinimg.com/564x/56/15/1b/56151b211ac9e22d081397d552ef225d.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie2",
+   "image": "https://i.pinimg.com/564x/4c/4f/9f/4c4f9fd0ff72dd059a08c8489801f96d.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie3",
+   "image": "https://i.pinimg.com/564x/02/97/62/029762faefbb78df3b0047e552f36d46.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie4",
+   "image": "https://i.pinimg.com/564x/d5/71/03/d57103477df5d2dfd2e36aaee6e8bc45.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie5",
+   "image": "https://i.pinimg.com/564x/b7/3f/2d/b73f2d24e12ce3d12ff1a31a5976ecb3.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie6",
+   "image": "https://i.pinimg.com/564x/79/90/35/7990353f686c99a160ce99683731b7d4.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie7",
+   "image": "https://i.pinimg.com/564x/5b/4c/d1/5b4cd12708f84e7be64b445dbb0a5856.jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie8",
+   "image": "https://i.pinimg.com/564x/44/de/ed/44deede0bf955475c5c953a0b0c50b07.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie9",
+   "image": "https://i.pinimg.com/564x/0a/c2/da/0ac2da94e1695e91fdcf6fc5a694cfd8.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie10",
+   "image": "https://i.pinimg.com/564x/fa/7a/8e/fa7a8e0d08aa921d707e3d82719dfe73.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie11",
+   "image": "https://i.pinimg.com/564x/7f/70/59/7f70595983c111f86383009f0cc9227a.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie12",
+   "image": "https://i.pinimg.com/564x/4a/c7/e3/4ac7e32f535e9675ad9dde20bc44171c.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie13",
+   "image": "https://i.pinimg.com/564x/3b/e5/a6/3be5a6bdcbfd37132f9758620780d861.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie14",
+   "image": "https://i.pinimg.com/564x/64/65/ae/6465ae152b5287d11da74aa50ff3854c.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie15",
+   "image": "https://i.pinimg.com/564x/e2/b5/2c/e2b52cfe478f22e38c67b788a41769aa.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie16",
+   "image": "https://i.pinimg.com/564x/66/96/28/66962838af615aba219261ec172a67d5.jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie17",
+   "image": "https://i.pinimg.com/564x/97/bb/98/97bb984c5ac7441673cc847d16e26360.jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie18",
+   "image": "https://i.pinimg.com/564x/34/0a/20/340a2067601576469e35298d975ffd65.jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie19",
+   "image": "https://i.pinimg.com/564x/01/f7/83/01f783354d1316b9b29ffd080bc1a40d.jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie20",
+   "image": "https://i.pinimg.com/564x/1d/0a/34/1d0a34f04db282bf610ea607142d855b.jpg"
+ },
+ {
+   "id": 21,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie21",
+   "image": "https://i.pinimg.com/564x/a9/01/e6/a901e6b44a80dafbda258c263e227666.jpg"
+ },
+ {
+   "id": 22,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie22",
+   "image": "https://i.pinimg.com/564x/1f/2c/70/1f2c70bf28027cb0bfeb3c34414fe3c7.jpg"
+ },
+ {
+   "id": 23,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie23",
+   "image": "https://i.pinimg.com/564x/9d/be/0e/9dbe0ea16d0f887b3f6e836414e781c8.jpg"
+ },
+ {
+   "id": 24,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie24",
+   "image": "https://i.pinimg.com/564x/8d/9f/6b/8d9f6b35bcbe8270312b3449ed626410.jpg"
+ },
+ {
+   "id": 25,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie25",
+   "image": "https://i.pinimg.com/564x/cf/11/0f/cf110f5e0cf60d4cbc3f86b3ef009032.jpg"
+ },
+ {
+   "id": 26,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie26",
+   "image": "https://i.pinimg.com/564x/a5/1f/60/a51f60557853d5d42e97ad633221c4a1.jpg"
+ },
+ {
+   "id": 27,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie27",
+   "image": "https://i.pinimg.com/564x/3b/63/c4/3b63c46ac7d5565f3dedecfa034096f2.jpg"
+ },
+ {
+   "id": 28,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie28",
+   "image": "https://i.pinimg.com/564x/7f/7d/a6/7f7da64bcee6d318b2ab68355408f1a4.jpg"
+ },
+ {
+   "id": 29,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie29",
+   "image": "https://i.pinimg.com/564x/52/96/c2/5296c26bd018514794e3fe152f20755b.jpg"
+ },
+ {
+   "id": 30,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie30",
+   "image": "https://i.pinimg.com/564x/ff/ff/49/ffff498f0cd1bb64bf750b51b09cb508.jpg"
+ },
+ {
+   "id": 31,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie31",
+   "image": "https://i.pinimg.com/564x/de/36/08/de36080697e0135063cc41f3907b1842.jpg"
+ },
+ {
+   "id": 32,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie32",
+   "image": "https://i.pinimg.com/564x/82/e0/91/82e091c2d4163ac7b025a78900861509.jpg"
+ },
+ {
+   "id": 33,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie33",
+   "image": "https://i.pinimg.com/564x/28/65/4f/28654fd366389599468d40b1567ec906.jpg"
+ },
+ {
+   "id": 34,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie34",
+   "image": "https://i.pinimg.com/564x/e6/57/6d/e6576d20abf2b70fd4ccad88b02eef66.jpg"
+ },
+ {
+   "id": 35,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie35",
+   "image": "https://i.pinimg.com/564x/45/71/a3/4571a39d7e25fc9f65f7d6dda4b3061c.jpg"
+ },
+ {
+   "id": 36,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie36",
+   "image": "https://i.pinimg.com/564x/ce/21/ff/ce21ffe2870e94dcc980f9e6c549eed4.jpg"
+ },
+ {
+   "id": 37,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie37",
+   "image": "https://i.pinimg.com/564x/a7/2c/b3/a72cb38781e2b8597fce311e028e9c6c.jpg"
+ },
+ {
+   "id": 38,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie38",
+   "image": "https://i.pinimg.com/564x/01/8a/5a/018a5a8228276178b4d359fd9c7753bc.jpg"
+ },
+ {
+   "id": 39,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie39",
+   "image": "https://i.pinimg.com/564x/25/0d/72/250d724bca4127c033a584f5bdcb70a6.jpg"
+ },
+ {
+   "id": 40,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie40",
+   "image": "https://i.pinimg.com/564x/b9/e4/7d/b9e47da499271496f7150670d01ff43e.jpg"
+ },
+ {
+   "id": 41,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie41",
+   "image": "https://i.pinimg.com/564x/7a/82/a6/7a82a64cd3e7be00fe47d8230cffd790.jpg"
+ },
+ {
+   "id": 42,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie42",
+   "image": "https://i.pinimg.com/564x/a4/78/8c/a4788ce5832687e0f4797c9348757c02.jpg"
+ },
+ {
+   "id": 43,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie43",
+   "image": "https://i.pinimg.com/564x/75/b4/87/75b4870b24096d198860c6fd0fdc76c0.jpg"
+ },
+ {
+   "id": 44,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie44",
+   "image": "https://i.pinimg.com/564x/14/64/d7/1464d7445ffb577fff5bd3e0de612872.jpg"
+ },
+ {
+   "id": 45,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie45",
+   "image": "https://i.pinimg.com/564x/1b/ff/c8/1bffc8fa148507974ea531307091e15a.jpg"
+ },
+ {
+   "id": 46,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie46",
+   "image": "https://i.pinimg.com/564x/c6/8f/39/c68f392ad17491a3bf2e936a25303879.jpg"
+ },
+ {
+   "id": 47,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie47",
+   "image": "https://i.pinimg.com/564x/e8/22/e0/e822e04ef652f25110b764fd2791a5ac.jpg"
+ },
+ {
+   "id": 48,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie48",
+   "image": "https://i.pinimg.com/564x/65/07/8b/65078b8c50a82a383ff2305f4f4e088f.jpg"
+ },
+ {
+   "id": 49,
+   "name_category": "Barbie Movie",
+   "title": "Barbie Movie49",
+   "image": "https://i.pinimg.com/564x/11/ec/8a/11ec8a87314be427636c286e6edc3c5a.jpg"
+ }
+]
+}
