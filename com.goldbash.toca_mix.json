@@ -1,0 +1,471 @@
+{
+  "Ads": [
+   {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-2365282461254996/8946919987",
+      "main_ads_intertitial":"ca-app-pub-2365282461254996/7633838311",
+      "main_ads_natives":"ca-app-pub-2365282461254996/1152190443",
+      "main_ads_rewards":"ca-app-pub-2365282461254996/5426160149",
+      "backup_ads_natives":"41a56bc4eb86e938",
+      "backup_ads_banner":"ac8702be9436f043",
+      "backup_ads_intertitial":"a02abd1d1e196845",
+      "backup_ads_rewards":"b59c754857154086",
+      "open_ads_admob":"ca-app-pub-2365282461254996/6212945431",
+      "open_ads_alien":"560f9789eb62abe8",
+      "open_ads_max":"631e7807602994a1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"J-lVpXbHyumUWsu1bwEwtGn2hHmLx6C2bqOJf981D837_yX93nmJClSRkUOCB875OFCUFQbqimV8KhnTquqV56",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+     {
+   "id": 4,
+   "title": "Banana Cat Meme HD",
+   "image": "https://play-lh.googleusercontent.com/LqBSS-Wcmx_iDCwQweVFIx6EjidXddS5imZtHBXDtIa4_Fa-z_fK734wJesHTDbTmNE=w2560-h1440",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.bananacat"
+ },
+     {
+   "id": 4,
+   "title": "Toca Boca Skibidi Toilet HD",
+   "image": "https://play-lh.googleusercontent.com/edPddJXUuWl9R7_OTZqGa7_mdACbQRNQ5eOurzgSqGSnFOGu7dMUrsljMrZ2nYQtOIA=w2560-h1440",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_skibidi"
+ },
+     {
+   "id": 4,
+   "title": "Gacha Life HD Style",
+   "image": "https://play-lh.googleusercontent.com/ZH1Spkon7qOQyBhCZTx3shkOlT4ZoZX1mWMBoJ1Th6y2BOddYq7Kusdmaf5QrLtTMw=w2560-h1440",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gacha_life"
+ },
+     {
+   "id": 4,
+   "title": "Gacha Plus HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/l6hjuoZqetQyJQAJ381mklSMHBPX77aqGXGW_4itKeMtq10bz53Er3UuhCD_sRnPZg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gachaplus"
+ },
+     {
+   "id": 4,
+   "title": "Toca Boca Room Ideas",
+   "image": "https://play-lh.googleusercontent.com/cguCjlxWtdD2Uxa_pz0QdLVQ1UyV7clWDjxdqNrAf3pbLLu37PVRy0HY8Y8jAZQ_maE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.toca_room"
+ },
+     {
+   "id": 4,
+   "title": "Gacha Life Outfit Ideas",
+   "image": "https://play-lh.googleusercontent.com/siwIwkxwSLp-Rx1ZYgdaLKWYRkm0sR1brsNHsux0ID0uh--321pt-dBN8m89y3FmoZI=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha_outfit"
+ },
+     {
+   "id": 4,
+   "title": "Who's Your Daddy 2 HD",
+   "image": "https://play-lh.googleusercontent.com/56FVlinI091lWoG26bULUV7eOO4C7ml-TSUJQoqdSy1QnTFGxPYSc9o-gs25p-4ZSzI=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.daddy"
+ },
+    {
+   "id": 4,
+   "title": "Amanda Adventurer 2 Wallpapper",
+   "image": "https://play-lh.googleusercontent.com/L8sojGG2Jg94P7b1dSDHYMYG_QizuwlT21fUxpgSTSld08yv8i1ImrSH5oVXTptDk4w=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.amanda"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams Fake VCall",
+   "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/QaIkWPuN9qfDjL8coR5yAHEV0pg0w9LKYz4PvTCCR4aRGTxj8jbRqarFbjzMtE-NWYE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.wednesday_addams"
+ },
+     {
+   "id": 13,
+   "title": "Jenna Ortega in Scream 6",
+   "image": "https://play-lh.googleusercontent.com/34xmdFOHcagfo2TdjDs6_1i2WiwEa-sqbp2ISPidWeok7wBrIYduw2_l4YdtHqou5_I=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.scream6"
+ },
+     {
+   "id": 1,
+   "title": "Gacha 2 HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/GXceIh263PKyU5CIoUdhx0shN68qf3GnD1ofwvxmh-qQN-uCuy03MrXa-yA7Md0PKQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha"
+ },
+     {
+   "id": 1,
+   "title": "Toca Boca Wednesday",
+   "image": "https://play-lh.googleusercontent.com/k95VZlu_7cYSxneTk2WI-nhnzbielE7CYyjQjFQDVgab1Fbod8Y6NzvmDfumAvV1YOYM=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.tocaboca_wednesday"
+ },
+    
+     {
+   "id": 1,
+   "title": "Broken Screen 4K",
+   "image": "https://play-lh.googleusercontent.com/sgktEtXjuVE8KNb6BwtN1Gt0U-1tB2YetPyu6fEfvghHy65obe39vCTaYYJkAmOXPAIy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.broken_screen"
+ },
+     {
+   "id": 1,
+   "title": "DragonBall",
+   "image": "https://play-lh.googleusercontent.com/JIZAJER9vCxmtiNBHBS47ef5KTLccGx60ccg4sksdYQFSEz8IxJnZoTnOVV_56KnpDs=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.dragon_ultra"
+ },
+   
+    
+{
+   "id": 1,
+   "title": "Creed 3 HD",
+   "image": "https://play-lh.googleusercontent.com/WkjfxzGDZbX4JT-5F6gKDUGHewWpLSPxSPI7cHVuC44uY-JjfE71U6CY2xZaDWYbu20=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.creed3"
+ },
+
+ {
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+ {
+   "id": 5,
+   "title": "Preppy Wallpapers Pink",
+   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
+ }
+  ],
+
+  "Categories": [
+   {
+   "id": 1,
+   "name_category": "Toca Boca",
+   "image": "http://archive.org/download/file_1664786935826/file_1664786819315.jpg"
+ }
+  ],
+
+  "Data":
+
+  [
+ {
+   "id": 46,
+   "name_category": "Toca Boca",
+   "title": "mix46",
+   "image": "https://i.pinimg.com/564x/ac/c4/b7/acc4b7cbd4594efbddcd46f9edd1af78.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Toca Boca",
+   "title": "mix9",
+   "image": "https://i.pinimg.com/564x/46/66/15/4666150ac897235be4347dccfc4fa242.jpg"
+ },
+ {
+   "id": 1,
+   "name_category": "Toca Boca",
+   "title": "mix1",
+   "image": "https://i.pinimg.com/564x/86/0c/09/860c098f0395af6892efd1f568b520e2.jpg"
+ },
+ {
+   "id": 27,
+   "name_category": "Toca Boca",
+   "title": "mix27",
+   "image": "https://i.pinimg.com/564x/d7/c8/bd/d7c8bdb479129fc936e6aaf705eb703d.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Toca Boca",
+   "title": "mix5",
+   "image": "https://i.pinimg.com/564x/40/bd/ca/40bdca3e762b162b14df0c5e48ca8a05.jpg"
+ },
+ {
+   "id": 47,
+   "name_category": "Toca Boca",
+   "title": "mix47",
+   "image": "https://i.pinimg.com/564x/95/53/8a/95538a7efae7b369bf430d3c4986bc88.jpg"
+ },
+ {
+   "id": 28,
+   "name_category": "Toca Boca",
+   "title": "mix28",
+   "image": "https://i.pinimg.com/564x/e7/bf/32/e7bf324289135b9395e2d184a5ba02ec.jpg"
+ },
+ {
+   "id": 32,
+   "name_category": "Toca Boca",
+   "title": "mix32",
+   "image": "https://i.pinimg.com/564x/dd/e9/7d/dde97da2598dd8cb418efe9746d89a5b.jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Toca Boca",
+   "title": "mix20",
+   "image": "https://i.pinimg.com/564x/fa/45/ac/fa45ac83dd6271f3ec4e705b4128b74a.jpg"
+ },
+ {
+   "id": 26,
+   "name_category": "Toca Boca",
+   "title": "mix26",
+   "image": "https://i.pinimg.com/564x/89/b1/cb/89b1cba0abb3b463cadfb7258616e36e.jpg"
+ },
+ {
+   "id": 45,
+   "name_category": "Toca Boca",
+   "title": "mix45",
+   "image": "https://i.pinimg.com/564x/c3/51/2c/c3512c7cef03a8d60d882fffff2a8d8c.jpg"
+ },
+ {
+   "id": 24,
+   "name_category": "Toca Boca",
+   "title": "mix24",
+   "image": "https://i.pinimg.com/564x/9b/51/27/9b51274ea545e4395fb8eacff3415912.jpg"
+ },
+ {
+   "id": 42,
+   "name_category": "Toca Boca",
+   "title": "mix42",
+   "image": "https://i.pinimg.com/564x/c8/c4/3f/c8c43f471cf7e0c50fcd280774895036.jpg"
+ },
+ {
+   "id": 30,
+   "name_category": "Toca Boca",
+   "title": "mix30",
+   "image": "https://i.pinimg.com/564x/98/6a/cb/986acbb9689386fcc287ff04c9cbdd40.jpg"
+ },
+ {
+   "id": 43,
+   "name_category": "Toca Boca",
+   "title": "mix43",
+   "image": "https://i.pinimg.com/564x/d8/cb/bf/d8cbbf7f2b479ffc5747d7d3857b95b6.jpg"
+ },
+ {
+   "id": 22,
+   "name_category": "Toca Boca",
+   "title": "mix22",
+   "image": "https://i.pinimg.com/564x/b0/4c/c5/b04cc513a35e6cf06c1840aa7f9ceeb9.jpg"
+ },
+ {
+   "id": 35,
+   "name_category": "Toca Boca",
+   "title": "mix35",
+   "image": "https://i.pinimg.com/564x/05/e9/58/05e958fc3fdd42175104bf3f0aa59576.jpg"
+ },
+ {
+   "id": 29,
+   "name_category": "Toca Boca",
+   "title": "mix29",
+   "image": "https://i.pinimg.com/564x/10/1e/1d/101e1d58e412b8dca9d5f21a4e3be07a.jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Toca Boca",
+   "title": "mix8",
+   "image": "https://i.pinimg.com/564x/46/0c/76/460c761b5200a264db6d2c1583176b13.jpg"
+ },
+ {
+   "id": 23,
+   "name_category": "Toca Boca",
+   "title": "mix23",
+   "image": "https://i.pinimg.com/564x/4a/63/f4/4a63f41e8b78a1d8fd4421ecc71ea4f5.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Toca Boca",
+   "title": "mix11",
+   "image": "https://i.pinimg.com/564x/ec/ef/99/ecef993b08c67f1a72ad3f10ce58e953.jpg"
+ },
+ {
+   "id": 40,
+   "name_category": "Toca Boca",
+   "title": "mix40",
+   "image": "https://i.pinimg.com/564x/b3/36/3c/b3363c2d15564fe818bec2034e507c8d.jpg"
+ },
+ {
+   "id": 34,
+   "name_category": "Toca Boca",
+   "title": "mix34",
+   "image": "https://i.pinimg.com/564x/b8/e0/27/b8e027b1d0c39f8c8af861a5073719da.jpg"
+ },
+ {
+   "id": 31,
+   "name_category": "Toca Boca",
+   "title": "mix31",
+   "image": "https://i.pinimg.com/564x/09/3c/00/093c0047a50ae644124db636c3b14acf.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Toca Boca",
+   "title": "mix16",
+   "image": "https://i.pinimg.com/564x/00/69/0b/00690be5c33b61fd655f014b16a35db0.jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Toca Boca",
+   "title": "mix19",
+   "image": "https://i.pinimg.com/564x/95/a1/b3/95a1b3d5efad25736cf586bd8f28cd81.jpg"
+ },
+ {
+   "id": 48,
+   "name_category": "Toca Boca",
+   "title": "mix48",
+   "image": "https://i.pinimg.com/564x/fc/2c/4b/fc2c4b45c95fa18008bedab115f39696.jpg"
+ },
+ {
+   "id": 25,
+   "name_category": "Toca Boca",
+   "title": "mix25",
+   "image": "https://i.pinimg.com/564x/7b/6f/f8/7b6ff8c2a06fefbaae8471fa581ad312.jpg"
+ },
+ {
+   "id": 41,
+   "name_category": "Toca Boca",
+   "title": "mix41",
+   "image": "https://i.pinimg.com/564x/57/95/ea/5795eab9e51b2f4619b367806bf05d48.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Toca Boca",
+   "title": "mix3",
+   "image": "https://i.pinimg.com/564x/21/87/d7/2187d72f1ece1860fa6c7b55d85ecb80.jpg"
+ },
+ {
+   "id": 50,
+   "name_category": "Toca Boca",
+   "title": "mix50",
+   "image": "https://i.pinimg.com/564x/37/c8/f6/37c8f6259c4a07ef265fc73566b6cba3.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Toca Boca",
+   "title": "mix10",
+   "image": "https://i.pinimg.com/564x/1b/47/d6/1b47d6b121d93e7b6acc43bba2fc721a.jpg"
+ },
+ {
+   "id": 52,
+   "name_category": "Toca Boca",
+   "title": "mix52",
+   "image": "https://i.pinimg.com/564x/3f/9f/99/3f9f99941648fd55d13a97e65417bc09.jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Toca Boca",
+   "title": "mix18",
+   "image": "https://i.pinimg.com/564x/a5/15/a9/a515a92bd6d536bd4a108a3010524647.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Toca Boca",
+   "title": "mix13",
+   "image": "https://i.pinimg.com/564x/d8/fa/81/d8fa81013856aa561a7a97c2a3fc0964.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Toca Boca",
+   "title": "mix6",
+   "image": "https://i.pinimg.com/564x/a6/be/c5/a6bec5d86a882b8db863ae89d8bd7813.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Toca Boca",
+   "title": "mix7",
+   "image": "https://i.pinimg.com/564x/ef/f5/26/eff526bc9775752b80afa8873cb15803.jpg"
+ },
+ {
+   "id": 37,
+   "name_category": "Toca Boca",
+   "title": "mix37",
+   "image": "https://i.pinimg.com/564x/c6/ce/f2/c6cef22381cc450acf485c1d34c1d3dd.jpg"
+ },
+ {
+   "id": 39,
+   "name_category": "Toca Boca",
+   "title": "mix39",
+   "image": "https://i.pinimg.com/564x/da/a0/76/daa0767c33730155e94d187f0606e23b.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Toca Boca",
+   "title": "mix12",
+   "image": "https://i.pinimg.com/564x/99/91/4f/99914f7df4af1d2af81ca18fa872de30.jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Toca Boca",
+   "title": "mix17",
+   "image": "https://i.pinimg.com/564x/c6/40/4e/c6404e92d07cd9dd47f76743565fe7b2.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Toca Boca",
+   "title": "mix14",
+   "image": "https://i.pinimg.com/564x/21/e6/e9/21e6e9c160c41b8cda555603970dc7ea.jpg"
+ },
+ {
+   "id": 38,
+   "name_category": "Toca Boca",
+   "title": "mix38",
+   "image": "https://i.pinimg.com/564x/50/b3/0f/50b30fc11b2d042d7e5637b6a75d2f29.jpg"
+ },
+ {
+   "id": 51,
+   "name_category": "Toca Boca",
+   "title": "mix51",
+   "image": "https://i.pinimg.com/564x/da/b9/5b/dab95b86a006f7ed32a526036952256b.jpg"
+ },
+ {
+   "id": 33,
+   "name_category": "Toca Boca",
+   "title": "mix33",
+   "image": "https://i.pinimg.com/564x/af/7e/d3/af7ed316e7268d3ae7119b54b6f53802.jpg"
+ },
+ {
+   "id": 21,
+   "name_category": "Toca Boca",
+   "title": "mix21",
+   "image": "https://i.pinimg.com/564x/ec/66/4f/ec664f323aa4c6d7bd592b98c75d184d.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Toca Boca",
+   "title": "mix15",
+   "image": "https://i.pinimg.com/564x/ef/f5/26/eff526bc9775752b80afa8873cb15803.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Toca Boca",
+   "title": "mix2",
+   "image": "https://i.pinimg.com/564x/95/bf/c3/95bfc3f79647305b555041cb76d29f72.jpg"
+ },
+ {
+   "id": 44,
+   "name_category": "Toca Boca",
+   "title": "mix44",
+   "image": "https://i.pinimg.com/564x/4c/f4/62/4cf462c9e40a7fff7a3c3bbdb1cf4e61.jpg"
+ },
+ {
+   "id": 49,
+   "name_category": "Toca Boca",
+   "title": "mix49",
+   "image": "https://i.pinimg.com/564x/d7/a5/b6/d7a5b63c8e4691d2b1a11847afb0f605.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Toca Boca",
+   "title": "mix4",
+   "image": "https://i.pinimg.com/564x/2e/03/76/2e037695d09fd77abbeebd40f5baa4ec.jpg"
+ },
+ {
+   "id": 36,
+   "name_category": "Toca Boca",
+   "title": "mix36",
+   "image": "https://i.pinimg.com/564x/86/ff/6a/86ff6a53a4b0412e3f7799d999dce5e5.jpg"
+ }
+]
+}
