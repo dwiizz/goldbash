@@ -1,0 +1,362 @@
+{
+  "Ads": [
+   {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-2365282461254996/8946919987",
+      "main_ads_intertitial":"ca-app-pub-2365282461254996/7633838311",
+      "main_ads_natives":"ca-app-pub-2365282461254996/1152190443",
+      "main_ads_rewards":"ca-app-pub-2365282461254996/5426160149",
+      "backup_ads_natives":"41a56bc4eb86e938",
+      "backup_ads_banner":"ac8702be9436f043",
+      "backup_ads_intertitial":"a02abd1d1e196845",
+      "backup_ads_rewards":"b59c754857154086",
+      "open_ads_admob":"ca-app-pub-2365282461254996/6212945431",
+      "open_ads_alien":"560f9789eb62abe8",
+      "open_ads_max":"631e7807602994a1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"J-lVpXbHyumUWsu1bwEwtGn2hHmLx6C2bqOJf981D837_yX93nmJClSRkUOCB875OFCUFQbqimV8KhnTquqV56",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+     {
+   "id": 4,
+   "title": "Banana Cat Meme HD",
+   "image": "https://play-lh.googleusercontent.com/LqBSS-Wcmx_iDCwQweVFIx6EjidXddS5imZtHBXDtIa4_Fa-z_fK734wJesHTDbTmNE=w2560-h1440",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.bananacat"
+ },
+     {
+   "id": 4,
+   "title": "Toca Boca Skibidi Toilet HD",
+   "image": "https://play-lh.googleusercontent.com/edPddJXUuWl9R7_OTZqGa7_mdACbQRNQ5eOurzgSqGSnFOGu7dMUrsljMrZ2nYQtOIA=w2560-h1440",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_skibidi"
+ },
+     {
+   "id": 4,
+   "title": "Gacha Life HD Style",
+   "image": "https://play-lh.googleusercontent.com/ZH1Spkon7qOQyBhCZTx3shkOlT4ZoZX1mWMBoJ1Th6y2BOddYq7Kusdmaf5QrLtTMw=w2560-h1440",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gacha_life"
+ },
+     {
+   "id": 4,
+   "title": "Gacha Plus HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/l6hjuoZqetQyJQAJ381mklSMHBPX77aqGXGW_4itKeMtq10bz53Er3UuhCD_sRnPZg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gachaplus"
+ },
+     {
+   "id": 4,
+   "title": "Toca Boca Room Ideas",
+   "image": "https://play-lh.googleusercontent.com/cguCjlxWtdD2Uxa_pz0QdLVQ1UyV7clWDjxdqNrAf3pbLLu37PVRy0HY8Y8jAZQ_maE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.toca_room"
+ },
+     {
+   "id": 4,
+   "title": "Gacha Life Outfit Ideas",
+   "image": "https://play-lh.googleusercontent.com/siwIwkxwSLp-Rx1ZYgdaLKWYRkm0sR1brsNHsux0ID0uh--321pt-dBN8m89y3FmoZI=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha_outfit"
+ },
+     {
+   "id": 4,
+   "title": "Who's Your Daddy 2 HD",
+   "image": "https://play-lh.googleusercontent.com/56FVlinI091lWoG26bULUV7eOO4C7ml-TSUJQoqdSy1QnTFGxPYSc9o-gs25p-4ZSzI=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.daddy"
+ },
+    {
+   "id": 4,
+   "title": "Amanda Adventurer 2 Wallpapper",
+   "image": "https://play-lh.googleusercontent.com/L8sojGG2Jg94P7b1dSDHYMYG_QizuwlT21fUxpgSTSld08yv8i1ImrSH5oVXTptDk4w=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.amanda"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams Fake VCall",
+   "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/QaIkWPuN9qfDjL8coR5yAHEV0pg0w9LKYz4PvTCCR4aRGTxj8jbRqarFbjzMtE-NWYE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.wednesday_addams"
+ },
+     {
+   "id": 13,
+   "title": "Jenna Ortega in Scream 6",
+   "image": "https://play-lh.googleusercontent.com/34xmdFOHcagfo2TdjDs6_1i2WiwEa-sqbp2ISPidWeok7wBrIYduw2_l4YdtHqou5_I=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.scream6"
+ },
+     {
+   "id": 1,
+   "title": "Gacha 2 HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/GXceIh263PKyU5CIoUdhx0shN68qf3GnD1ofwvxmh-qQN-uCuy03MrXa-yA7Md0PKQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha"
+ },
+     {
+   "id": 1,
+   "title": "Toca Boca Wednesday",
+   "image": "https://play-lh.googleusercontent.com/k95VZlu_7cYSxneTk2WI-nhnzbielE7CYyjQjFQDVgab1Fbod8Y6NzvmDfumAvV1YOYM=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.tocaboca_wednesday"
+ },
+    
+     {
+   "id": 1,
+   "title": "Broken Screen 4K",
+   "image": "https://play-lh.googleusercontent.com/sgktEtXjuVE8KNb6BwtN1Gt0U-1tB2YetPyu6fEfvghHy65obe39vCTaYYJkAmOXPAIy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.broken_screen"
+ },
+     {
+   "id": 1,
+   "title": "DragonBall",
+   "image": "https://play-lh.googleusercontent.com/JIZAJER9vCxmtiNBHBS47ef5KTLccGx60ccg4sksdYQFSEz8IxJnZoTnOVV_56KnpDs=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.dragon_ultra"
+ },
+   
+    
+{
+   "id": 1,
+   "title": "Creed 3 HD",
+   "image": "https://play-lh.googleusercontent.com/WkjfxzGDZbX4JT-5F6gKDUGHewWpLSPxSPI7cHVuC44uY-JjfE71U6CY2xZaDWYbu20=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.creed3"
+ },
+
+ {
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+ {
+   "id": 5,
+   "title": "Preppy Wallpapers Pink",
+   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
+ }
+  ],
+
+  "Categories": [
+   {
+   "id": 1,
+   "name_category": "Toca Boca",
+   "image": "http://archive.org/download/file_1664786935826/file_1664786819315.jpg"
+ }
+  ],
+
+  "Data":
+[
+ {
+   "id": 15,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi15",
+   "image": "https://i.pinimg.com/564x/1d/c8/1c/1dc81c590f3aafbf3007309a39802912.jpg"
+ },
+ {
+   "id": 23,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi23",
+   "image": "https://i.pinimg.com/564x/94/99/c1/9499c14680caa560a330fcf003278374.jpg"
+ },
+ {
+   "id": 2,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi2",
+   "image": "https://i.pinimg.com/564x/8f/63/74/8f6374cc8b49e2970996a14646dbb574.jpg"
+ },
+ {
+   "id": 30,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi30",
+   "image": "https://i.pinimg.com/564x/85/b4/73/85b473e3ea83751f6b1fb1de63babf22.jpg"
+ },
+ {
+   "id": 6,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi6",
+   "image": "https://i.pinimg.com/564x/16/f9/eb/16f9eb69355917482e2dbb8060aa0c95.jpg"
+ },
+ {
+   "id": 12,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi12",
+   "image": "https://i.pinimg.com/564x/cb/40/c8/cb40c8d81a4908b2d322b90a1a4eaf1e.jpg"
+ },
+ {
+   "id": 3,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi3",
+   "image": "https://i.pinimg.com/564x/fe/92/10/fe92104898224894f72269083e6bce3d.jpg"
+ },
+ {
+   "id": 22,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi22",
+   "image": "https://i.pinimg.com/564x/c6/ce/7b/c6ce7bd7f111abb4ebe7ca450f907896.jpg"
+ },
+ {
+   "id": 28,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi28",
+   "image": "https://i.pinimg.com/564x/76/9a/84/769a842cf15c809b62e01902094760fc.jpg"
+ },
+ {
+   "id": 9,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi9",
+   "image": "https://i.pinimg.com/564x/f5/19/d9/f519d9b32244e72cca558ec588c1b8c2.jpg"
+ },
+ {
+   "id": 16,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi16",
+   "image": "https://i.pinimg.com/564x/11/e9/cf/11e9cfbb12d6b4a88064142b2e4e2b3e.jpg"
+ },
+ {
+   "id": 18,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi18",
+   "image": "https://i.pinimg.com/564x/b2/25/c0/b225c0cde31e9ba9a188b8560802f9e8.jpg"
+ },
+ {
+   "id": 24,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi24",
+   "image": "https://i.pinimg.com/564x/49/d3/e0/49d3e05268bf91c50a7c3415b8ec4eee.jpg"
+ },
+ {
+   "id": 25,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi25",
+   "image": "https://i.pinimg.com/564x/40/a9/f6/40a9f6dbf1b3a6634a9521bd6df1328c.jpg"
+ },
+ {
+   "id": 7,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi7",
+   "image": "https://i.pinimg.com/564x/6d/c0/19/6dc0191e871210814d3578ce16787763.jpg"
+ },
+ {
+   "id": 10,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi10",
+   "image": "https://i.pinimg.com/564x/4e/8a/f3/4e8af3ff5ef3defd0e05d930901342ad.jpg"
+ },
+ {
+   "id": 17,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi17",
+   "image": "https://i.pinimg.com/564x/00/59/30/005930cbb431c9a6bad5fc04d3b40ef3.jpg"
+ },
+ {
+   "id": 29,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi29",
+   "image": "https://i.pinimg.com/564x/56/03/ce/5603ced5d60b6b7348075e6750924f91.jpg"
+ },
+ {
+   "id": 14,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi14",
+   "image": "https://i.pinimg.com/564x/45/2f/5e/452f5e6561f23748e8fc119aea9c505e.jpg"
+ },
+ {
+   "id": 5,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi5",
+   "image": "https://i.pinimg.com/564x/d9/59/c2/d959c2bc22dbf21cf8e6d5a98341a905.jpg"
+ },
+ {
+   "id": 21,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi21",
+   "image": "https://i.pinimg.com/564x/c5/f1/89/c5f189febb5f7f734d704a4b6638b93f.jpg"
+ },
+ {
+   "id": 32,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi32",
+   "image": "https://i.pinimg.com/564x/c3/af/ac/c3afac652146c4d606004360a6e46033.jpg"
+ },
+ {
+   "id": 19,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi19",
+   "image": "https://i.pinimg.com/564x/12/b9/22/12b9224796c8458859dc73b90103db22.jpg"
+ },
+ {
+   "id": 1,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi1",
+   "image": "https://i.pinimg.com/564x/70/8c/ce/708cceb1c69ad5ad5f7c1f0730e71438.jpg"
+ },
+ {
+   "id": 26,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi26",
+   "image": "https://i.pinimg.com/564x/47/2b/b7/472bb7c573ce4e21b8a29bcbdd32484f.jpg"
+ },
+ {
+   "id": 13,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi13",
+   "image": "https://i.pinimg.com/564x/7d/06/e4/7d06e44ab9715983f4b96e048ac49726.jpg"
+ },
+ {
+   "id": 34,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi34",
+   "image": "https://i.pinimg.com/564x/ff/10/95/ff1095dd43730ab6a7879e57d563384f.jpg"
+ },
+ {
+   "id": 4,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi4",
+   "image": "https://i.pinimg.com/564x/06/7f/43/067f43b9890d124707910ed2c574f4a0.jpg"
+ },
+ {
+   "id": 27,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi27",
+   "image": "https://i.pinimg.com/564x/69/c4/4f/69c44f20c7c483a9682da6ae41db543c.jpg"
+ },
+ {
+   "id": 20,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi20",
+   "image": "https://i.pinimg.com/564x/f1/38/c8/f138c89aa804b8a552a9deab4c4aab0d.jpg"
+ },
+ {
+   "id": 8,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi8",
+   "image": "https://i.pinimg.com/564x/50/52/dc/5052dc89f1af555dad34af7cfa114f64.jpg"
+ },
+ {
+   "id": 31,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi31",
+   "image": "https://i.pinimg.com/564x/e8/54/65/e85465bea11c9c852ba53653319683d3.jpg"
+ },
+ {
+   "id": 33,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi33",
+   "image": "https://i.pinimg.com/564x/3b/a2/cd/3ba2cd8c5b002deb3b3d3710425f5572.jpg"
+ },
+ {
+   "id": 11,
+   "FIELD2": "Wednesday Skibydi",
+   "title": "Wednesday Skibydi11",
+   "image": "https://i.pinimg.com/564x/54/af/aa/54afaa16721c26d69b574f40b00f4305.jpg"
+ }
+]
+}
